@@ -1,0 +1,11 @@
+[
+  {
+    "file": "lsp/TBX(blow up).lsp",
+    "commands": [
+      "TBX"
+    ],
+    "title": "放大圖框與索引",
+    "category": "匯入與詳圖",
+    "manual": "README.md"
+  }
+]

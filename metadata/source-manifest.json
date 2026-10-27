@@ -1,0 +1,19 @@
+{
+  "snapshot_date": "2026-10-27",
+  "scope": "One independent LISP tool; original bytes preserved",
+  "files": [
+    {
+      "path": "lsp/TBX(blow up).lsp",
+      "bytes": 6356,
+      "sha256": "a18c08d136aafde46210e7542702e4f59690015cb436d2baf62e6a47a2d19ae1",
+      "encoding": "utf-8",
+      "bom": false,
+      "commands": [
+        {
+          "name": "TBX",
+          "line": 29
+        }
+      ]
+    }
+  ]
+}
